@@ -6,7 +6,7 @@
 ## How to use
 Select the file from the explorer and click on the desired option:
 
-![Example](https://gitee.com/fanshichao/copy-relative-path/raw/master/images/working.gif)
+![Image text](./images/working.gif)
 
 
 ## Extension Settings
