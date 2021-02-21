@@ -6,7 +6,7 @@
 ## How to use
 Select the file from the explorer and click on the desired option:
 
-![Example](./images/working.gif)
+![Example](https://gitee.com/fanshichao/copy-relative-path/raw/master/images/working.gif)
 
 
 ## Extension Settings
@@ -14,6 +14,3 @@ Select the file from the explorer and click on the desired option:
 // Add ./ for relative paths pointing to the same directory.
 "copyRelativeFilePath.addLeadingDot": true
 ```
-
-**Enjoy!**
-
