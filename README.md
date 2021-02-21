@@ -6,7 +6,7 @@
 ## How to use
 Select the file from the explorer and click on the desired option:
 
-![Image text](./images/working.gif)
+![Image text](https://thumbs.gfycat.com/UnderstatedConcreteAustralianfurseal-size_restricted.gif)
 
 
 ## Extension Settings
