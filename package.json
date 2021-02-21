@@ -3,7 +3,7 @@
     "displayName": "Copy relative path",
     "description": "Copy the relative path from the current file to the selected file",
     "keywords": ["copy", "path", "relative", "copy relative path"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "myos",
     "engines": {
         "vscode": "^1.23.0"
