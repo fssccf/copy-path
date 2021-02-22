@@ -1,16 +1,21 @@
-# Copy Path for Visual Studio Code
+# Copy relative path
 
-- Copy the relative path from the current file to the selected file.
-- Copy the project path of a file or directory.
+[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/myos.copy-relative-path.svg)](https://marketplace.visualstudio.com/items?itemName=myos.copy-relative-path) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/myos.copy-relative-path.svg)](https://marketplace.visualstudio.com/items?itemName=myos.copy-relative-path) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/myos.copy-relative-path.svg)](https://marketplace.visualstudio.com/items?itemName=myos.copy-relative-path)
+
+## Introduction
+
+* 1.Copy the relative path from the current file to the selected file.
+* 2.Copy the project path of a file or directory.
 
 ## How to use
 Select the file from the explorer and click on the desired option:
 
 ![Image text](https://thumbs.gfycat.com/UnderstatedConcreteAustralianfurseal-size_restricted.gif)
 
-
-## Extension Settings
-``` js
-// Add ./ for relative paths pointing to the same directory.
-"copyRelativeFilePath.addLeadingDot": true
+## Telemetry data
+* By default, telemetry data collection is turned on to understand user behavior to improve this extension. To disable it, update the settings.json as below:
+```json
+{
+    "copyRelativeFilePath.addLeadingDot": true
+}
 ```

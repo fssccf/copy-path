@@ -1,9 +1,10 @@
 # Change Log
-会显示在变更选项卡；
+变更选项卡
 
-All notable changes to the "copy-path" extension will be documented in this file.
+## Version 1.0
 
-Check [Keep a Changelog](https://www.myos.wang) for recommendations on how to structure this file.
+### 1.0.2
+* Add support for edit menu tab
 
-## [Unreleased]
-- Initial release
+### 1.0.1
+* Initial Release
