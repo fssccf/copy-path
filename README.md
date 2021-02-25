@@ -11,6 +11,7 @@
 Select the file from the explorer and click on the desired option:
 
 ![Image text](https://thumbs.gfycat.com/UnderstatedConcreteAustralianfurseal-size_restricted.gif)
+![Image text](https://raw.githubusercontent.com/fssccf/copy-relative-path/master/images/working2.gif)
 
 ## Telemetry data
 * By default, telemetry data collection is turned on to understand user behavior to improve this extension. To disable it, update the settings.json as below:
