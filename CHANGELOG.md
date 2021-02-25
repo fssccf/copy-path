@@ -3,6 +3,9 @@
 
 ## Version 1.0
 
+### 1.0.3
+* readme.md add operation picture
+
 ### 1.0.2
 * Add support for edit menu tab
 

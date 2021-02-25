@@ -15,7 +15,7 @@ Select the file from the explorer and click on the desired option:
 
 ## Telemetry data
 * By default, telemetry data collection is turned on to understand user behavior to improve this extension. To disable it, update the settings.json as below:
-```json
+```js
 {
     "copyRelativeFilePath.addLeadingDot": true
 }
