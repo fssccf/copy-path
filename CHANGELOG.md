@@ -3,6 +3,15 @@
 
 ## Version 1.0
 
+### 1.0.5
+* Add picture operation demonstration
+
+### 1.0.4
+* Reduce popup resources in files by right clicking
+
+### 1.0.3
+* Optimizing program overhead
+
 ### 1.0.3
 * readme.md add operation picture
 

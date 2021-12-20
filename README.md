@@ -1,6 +1,6 @@
 # Copy relative path
 
-[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/myos.copy-relative-path.svg)](https://marketplace.visualstudio.com/items?itemName=myos.copy-relative-path) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/myos.copy-relative-path.svg)](https://marketplace.visualstudio.com/items?itemName=myos.copy-relative-path) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/myos.copy-relative-path.svg)](https://marketplace.visualstudio.com/items?itemName=myos.copy-relative-path)
+[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/myapps.myapp-copy-path.svg)](https://marketplace.visualstudio.com/items?itemName=myapps.myapp-copy-path) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/myapps.myapp-copy-path.svg)](https://marketplace.visualstudio.com/items?itemName=myapps.myapp-copy-path) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/myapps.myapp-copy-path.svg)](https://marketplace.visualstudio.com/items?itemName=myapps.myapp-copy-path)
 
 ## Introduction
 
@@ -10,7 +10,7 @@
 ## How to use
 Select the file from the explorer and click on the desired option:
 
-![Image text](https://raw.githubusercontent.com/fssccf/copy-relative-path/master/images/working.gif)
+![Image text](https://raw.githubusercontent.com/fssccf/copy-path/master/images/working.gif)
 
 ## Telemetry data
 * By default, telemetry data collection is turned on to understand user behavior to improve this extension. To disable it, update the settings.json as below:
